@@ -6,3 +6,7 @@ I'm a university student in Osaka.
 - JavaScript
 - C
 - C++
+
+<!---
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=vinyl-umbrella&count_private=true&show_icons=true&theme=vue)
+--->
