@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a university student in Osaka.
+I'm a master student in Osaka.
 ## Skills
 ### Language
 - Python
