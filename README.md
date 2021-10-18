@@ -9,7 +9,7 @@ I'm a master student in Osaka.
 - C++
 
  ### Skills
-- mail server (postfix)
+- mail server (postfix, dovecot)
 - DNS server (nsd)
 - Web server (nginx)
 - Docker
