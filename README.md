@@ -4,7 +4,7 @@ I'm a master student in Osaka.
 ### Languages
 - ◎ Python, JavaScript, Vue.js
 - 〇 TypeScript, React.js, C, C++
-- △ Go, Rust, PHP
+- △ Go, Rust, PHP, Ruby
 
  ### Skills
 - mail server (postfix, dovecot), DNS server (nsd), Web server (nginx), Docker, Firebase, ec2, oci, gcp 
