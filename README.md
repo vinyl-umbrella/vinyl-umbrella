@@ -2,18 +2,18 @@
 I work for an IT company.
 
 ### Languages
-- ◎ Python, JavaScript, Vue.js
-- 〇 TypeScript, React.js, C, C++
-- △ Go, Rust, PHP, Ruby
+- ◎ Python, JavaScript(TypeScript), Vue.js
+- 〇 React.js(Next.js), C, C++
+- △ Go, PHP
 
  ### Skills
-- Email server (Postfix)
-- DNS,
-- Web server (nginx),
+- AWS
+- email
+- DNS
+- nginx
 - Docker
 - Firebase
 - OCI
-- AWS
 
 <!---
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=vinyl-umbrella&count_private=true&show_icons=true&theme=vue)
