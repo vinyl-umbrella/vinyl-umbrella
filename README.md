@@ -7,24 +7,14 @@ I work for an IT company as SRE.
 - △ PHP
 
  ### Skills
-- AWS
-- email
-- DNS
-- web
-- Docker
-- Firebase
-- OCI
+- AWS, email, DNS, web, Docker, Firebase, OCI
 
 ### Love ❤️
 - low layer
 - security
-  - web
-  - http
-  - xss
+  - web, http, xss
 - Mozilla
-  - Thunderbird
-  - Firefox
-  - MDN
+  - Thunderbird, Firefox, MDN
  - indie games
  - rogue like (rogue lite)
 <!---
