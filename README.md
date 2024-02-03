@@ -11,6 +11,7 @@ I work for an IT company as SRE.
 
 ### Love ❤️
 - low layer
+- emacs
 - security
   - web, http, xss
 - Mozilla
