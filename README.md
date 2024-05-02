@@ -1,5 +1,5 @@
 ### Hi there 👋
-I work for an IT company as SRE.
+I work as an SRE at a Japanese IT company.
 
 ### Languages
 - ◎ Python, JavaScript(TypeScript), Vue.js
@@ -9,6 +9,9 @@ I work for an IT company as SRE.
  ### Skills
 - AWS, email, DNS, web, Docker, Firebase, OCI
 
+### Certificates
+- AWS SAA
+
 ### Love ❤️
 - low layer
 - emacs
@@ -16,8 +19,7 @@ I work for an IT company as SRE.
   - web, http, xss
 - Mozilla
   - Thunderbird, Firefox, MDN
- - indie games
- - rogue like (rogue lite)
+
 <!---
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=vinyl-umbrella&count_private=true&show_icons=true&theme=vue)
 --->
