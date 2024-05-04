@@ -11,6 +11,7 @@ I work as an SRE at a Japanese IT company.
 
 ### Certificates
 - AWS SAA
+- Oracle Cloud Infrastructure 2023 Foundations Associate
 
 ### Love ❤️
 - low layer
